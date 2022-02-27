@@ -297,4 +297,8 @@ main.content {
   .pagination {
     margin-bottom: 50px;
   }
+
+  .backButton {
+    margin: 2em auto;
+  }
 }
